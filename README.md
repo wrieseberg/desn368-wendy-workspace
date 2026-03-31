@@ -55,12 +55,11 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
 
 ## 🛠️ **My Toolkit**
 *Update these links as you complete each tool setup:*
-- **GitHub Profile:**  ⏳
-- **Workspace Repository:** [Add your repository URL here] ⏳
-- **Figma:** [Add your Figma username here] ⏳
-- **CodePen:** [Add your CodePen profile URL here] ⏳
-- **LiveCode:** [Add your LiveCode profile here] ⏳
-- **GitHub Student Pack:** [Confirm approval status here] ⏳
+- **GitHub Profile:[(https://github.com/wrieseberg)-
+- **Workspace Repository: (https://github.com/wrieseberg/desn368-wendy-workspace)
+- **Figma: wrieseberg@ewu.edu
+- **CodePen:(https://codepen.io/pen)
+- **GitHub Student Pack:denied
 
 ### **How to Update Your Toolkit:**
 1. **Click the pencil icon** (✏️) at the top right of this README
