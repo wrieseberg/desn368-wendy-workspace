@@ -3,30 +3,30 @@
 ## Background & Skills
 
 **1. Major:**  
-[Your answer here]
+Design
 
 **2. Design courses completed:**  
-[ ] DESN 100  
-[ ] DESN 200  
-[ ] DESN 216  
-[ ] DESN 243  
-[ ] DESN 263  
-[ ] DESN 338  
+[x] DESN 100  
+[x] DESN 200  
+[x] DESN 216  
+[x] DESN 243  
+[x] DESN 263  
+[Current] DESN 338  
 [ ] None  
 [ ] Other: _______________
 
 **3. Web experience:**  
-[ ] Never coded  
+[x] Never coded  (Does myspace count??? haha)
 [ ] Viewed source  
 [ ] Modified HTML/CSS  
-[ ] Built websites  
+[only using AI!] Built websites  
 [ ] Professional work
 
 **4. AI tool experience:**  
 [ ] Never used  
 [ ] ChatGPT occasionally  
-[ ] Regular AI user  
-[ ] Coding with AI  
+[X] Regular AI user  
+[X] Coding with AI  
 [ ] Not sure what this means
 
 ## Designer-Coder Mindset
@@ -34,34 +34,34 @@
 **5. When you see a website, you primarily notice:**  
 [ ] Visual design  
 [ ] How it functions  
-[ ] Both equally  
+[X] Both equally  
 [ ] Other: _______________
 
 **6. Rate your comfort level (1-5 scale, 5 = very comfortable):**  
-- Sketching ideas: ___  
-- Problem-solving: ___  
-- Design software: ___  
-- Giving/receiving feedback: ___
+- Sketching ideas: _5_  
+- Problem-solving: _4_  
+- Design software: _0_  
+- Giving/receiving feedback: _5_
 
 **7. Learning preference:**  
 [ ] Jump in and build  
-[ ] Step-by-step tutorials  
+[X] Step-by-step tutorials  
 [ ] Read first, then practice  
 [ ] Learn from mistakes  
-[ ] Other: _______________
+[ ] Other:
 
 ## Course Alignment
 
 **8. Main goal:**  
-[ ] Pass class  
-[ ] Build portfolio  
-[ ] Understand web development  
-[ ] Career prep  
-[ ] Personal interest
+[X] Pass class  
+[X] Build portfolio  
+[X] Understand web development  
+[X] Career prep  
+[X] Personal interest
 
 **9. Biggest concern:**  
 [ ] Keeping up  
-[ ] Syntax/technical details  
+[X] Syntax/technical details  
 [ ] Design skills  
 [ ] Working with others  
 [ ] Using AI appropriately
@@ -71,24 +71,23 @@
 [ ] Visual design  
 [ ] Combining design + code  
 [ ] AI collaboration  
-[ ] Not sure yet
-
+[X] Learning all the things
 ## Quick Baseline
 
 **11. HTML is primarily for:**  
 [ ] Visual styling and layout  
-[ ] Content structure and meaning  
+[x] Content structure and meaning  
 [ ] Interactive functionality  
 [ ] Database connections
 
 **12. CSS is primarily for:**  
 [ ] Content structure  
-[ ] Visual styling and layout  
+[x] Visual styling and layout  
 [ ] Programming logic  
 [ ] Server communication
 
 **13. One thing you hope to create by course end:**  
-[Your answer here]
+I am excited to learn all the possibilities of what I can do
 
 ---
 *This intake will help me understand your background and tailor the course experience. Feel free to expand on any answers!*
