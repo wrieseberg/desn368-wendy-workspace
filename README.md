@@ -68,7 +68,7 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
    - Change `[Add your repository URL here]` → (https://github.com/wrieseberg/desn368-wendy-workspace)
    - Change `[Add your Figma username here]` → wrieseberg@ewu.edu
    - Change `[Add your CodePen profile URL here]` → (https://codepen.io/pen)
-   - Change `[Confirm approval status here]` → pending
+   - Change `[Confirm approval status here]` → denied
 3. Scroll to bottom and click **"Commit changes"**
 4. Repeat this process each time you complete a new tool setup  
 
